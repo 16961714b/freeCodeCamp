@@ -1,0 +1,19 @@
+body {
+
+	margin: 0 auto;
+	width: 70%;
+	clear: both;
+}
+
+h1, h2, h3 {
+	font-family: 'Lobster', Monospace;
+}
+
+h4, h5, h6 {
+	font-family: 'Tangerine', Monospace;
+}
+
+
+a {
+	text-decoration: none;
+}
